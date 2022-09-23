@@ -1,0 +1,622 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "maximize sticky action-items",
+      "day": "05/07/2020",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "disintermediate synergistic technologies",
+      "day": "15/02/2020",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "leverage dynamic methodologies",
+      "day": "08/04/2020",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "recontextualize cross-platform initiatives",
+      "day": "04/10/2021",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "transition visionary markets",
+      "day": "23/03/2021",
+      "reminder": false
+    },
+    {
+      "id": 7,
+      "text": "extend one-to-one applications",
+      "day": "23/11/2021",
+      "reminder": true
+    },
+    {
+      "id": 8,
+      "text": "embrace customized supply-chains",
+      "day": "25/10/2019",
+      "reminder": true
+    },
+    {
+      "id": 9,
+      "text": "brand impactful convergence",
+      "day": "25/02/2022",
+      "reminder": true
+    },
+    {
+      "id": 10,
+      "text": "expedite ubiquitous infomediaries",
+      "day": "11/08/2021",
+      "reminder": false
+    },
+    {
+      "id": 11,
+      "text": "repurpose wireless architectures",
+      "day": "03/08/2020",
+      "reminder": false
+    },
+    {
+      "id": 12,
+      "text": "whiteboard dot-com paradigms",
+      "day": "26/10/2021",
+      "reminder": true
+    },
+    {
+      "id": 13,
+      "text": "incentivize virtual schemas",
+      "day": "25/12/2021",
+      "reminder": false
+    },
+    {
+      "id": 14,
+      "text": "target B2B relationships",
+      "day": "08/01/2022",
+      "reminder": true
+    },
+    {
+      "id": 15,
+      "text": "expedite global initiatives",
+      "day": "01/10/2019",
+      "reminder": false
+    },
+    {
+      "id": 16,
+      "text": "benchmark e-business convergence",
+      "day": "18/01/2021",
+      "reminder": true
+    },
+    {
+      "id": 17,
+      "text": "engage cross-media functionalities",
+      "day": "15/12/2020",
+      "reminder": false
+    },
+    {
+      "id": 18,
+      "text": "mesh web-enabled web-readiness",
+      "day": "18/08/2019",
+      "reminder": false
+    },
+    {
+      "id": 19,
+      "text": "orchestrate granular mindshare",
+      "day": "20/09/2020",
+      "reminder": true
+    },
+    {
+      "id": 20,
+      "text": "transform bricks-and-clicks infomediaries",
+      "day": "10/04/2021",
+      "reminder": true
+    },
+    {
+      "id": 21,
+      "text": "transition distributed relationships",
+      "day": "17/10/2020",
+      "reminder": true
+    },
+    {
+      "id": 22,
+      "text": "syndicate best-of-breed convergence",
+      "day": "17/05/2021",
+      "reminder": false
+    },
+    {
+      "id": 23,
+      "text": "enhance B2B channels",
+      "day": "13/05/2021",
+      "reminder": false
+    },
+    {
+      "id": 24,
+      "text": "embrace ubiquitous action-items",
+      "day": "27/01/2020",
+      "reminder": false
+    },
+    {
+      "id": 25,
+      "text": "deliver 24/365 models",
+      "day": "30/11/2021",
+      "reminder": true
+    },
+    {
+      "id": 26,
+      "text": "utilize one-to-one supply-chains",
+      "day": "07/08/2019",
+      "reminder": false
+    },
+    {
+      "id": 27,
+      "text": "drive 24/365 eyeballs",
+      "day": "27/03/2022",
+      "reminder": true
+    },
+    {
+      "id": 28,
+      "text": "benchmark innovative initiatives",
+      "day": "22/07/2020",
+      "reminder": true
+    },
+    {
+      "id": 29,
+      "text": "deploy best-of-breed paradigms",
+      "day": "27/09/2019",
+      "reminder": true
+    },
+    {
+      "id": 30,
+      "text": "integrate e-business e-business",
+      "day": "09/05/2021",
+      "reminder": false
+    },
+    {
+      "id": 31,
+      "text": "revolutionize plug-and-play mindshare",
+      "day": "28/12/2020",
+      "reminder": true
+    },
+    {
+      "id": 32,
+      "text": "recontextualize granular initiatives",
+      "day": "22/03/2020",
+      "reminder": false
+    },
+    {
+      "id": 33,
+      "text": "morph web-enabled action-items",
+      "day": "24/02/2021",
+      "reminder": false
+    },
+    {
+      "id": 34,
+      "text": "seize frictionless portals",
+      "day": "08/11/2021",
+      "reminder": false
+    },
+    {
+      "id": 35,
+      "text": "orchestrate wireless communities",
+      "day": "02/01/2021",
+      "reminder": false
+    },
+    {
+      "id": 36,
+      "text": "deliver cutting-edge e-business",
+      "day": "30/10/2019",
+      "reminder": false
+    },
+    {
+      "id": 37,
+      "text": "synthesize back-end mindshare",
+      "day": "23/12/2020",
+      "reminder": false
+    },
+    {
+      "id": 38,
+      "text": "innovate collaborative e-tailers",
+      "day": "17/04/2020",
+      "reminder": true
+    },
+    {
+      "id": 39,
+      "text": "enable frictionless schemas",
+      "day": "30/08/2020",
+      "reminder": true
+    },
+    {
+      "id": 40,
+      "text": "incubate back-end architectures",
+      "day": "23/03/2021",
+      "reminder": true
+    },
+    {
+      "id": 41,
+      "text": "exploit one-to-one methodologies",
+      "day": "16/02/2022",
+      "reminder": false
+    },
+    {
+      "id": 42,
+      "text": "scale ubiquitous portals",
+      "day": "11/11/2021",
+      "reminder": false
+    },
+    {
+      "id": 43,
+      "text": "redefine efficient e-markets",
+      "day": "19/10/2019",
+      "reminder": false
+    },
+    {
+      "id": 44,
+      "text": "enhance holistic niches",
+      "day": "09/02/2020",
+      "reminder": false
+    },
+    {
+      "id": 45,
+      "text": "benchmark one-to-one solutions",
+      "day": "10/01/2021",
+      "reminder": true
+    },
+    {
+      "id": 46,
+      "text": "enable cross-platform initiatives",
+      "day": "02/08/2021",
+      "reminder": false
+    },
+    {
+      "id": 47,
+      "text": "maximize cross-platform synergies",
+      "day": "18/08/2019",
+      "reminder": true
+    },
+    {
+      "id": 48,
+      "text": "productize intuitive e-business",
+      "day": "05/10/2021",
+      "reminder": false
+    },
+    {
+      "id": 49,
+      "text": "engage interactive portals",
+      "day": "18/09/2019",
+      "reminder": false
+    },
+    {
+      "id": 50,
+      "text": "enhance rich technologies",
+      "day": "01/12/2020",
+      "reminder": false
+    },
+    {
+      "id": 51,
+      "text": "empower extensible convergence",
+      "day": "22/02/2022",
+      "reminder": true
+    },
+    {
+      "id": 52,
+      "text": "exploit user-centric applications",
+      "day": "19/08/2020",
+      "reminder": false
+    },
+    {
+      "id": 53,
+      "text": "engineer best-of-breed paradigms",
+      "day": "25/03/2021",
+      "reminder": true
+    },
+    {
+      "id": 54,
+      "text": "generate interactive bandwidth",
+      "day": "20/02/2020",
+      "reminder": true
+    },
+    {
+      "id": 55,
+      "text": "cultivate bleeding-edge e-commerce",
+      "day": "18/06/2020",
+      "reminder": true
+    },
+    {
+      "id": 56,
+      "text": "evolve bleeding-edge web-readiness",
+      "day": "13/12/2019",
+      "reminder": false
+    },
+    {
+      "id": 57,
+      "text": "synergize collaborative convergence",
+      "day": "23/02/2020",
+      "reminder": true
+    },
+    {
+      "id": 58,
+      "text": "cultivate ubiquitous web services",
+      "day": "16/04/2020",
+      "reminder": false
+    },
+    {
+      "id": 59,
+      "text": "synthesize 24/7 users",
+      "day": "30/07/2021",
+      "reminder": true
+    },
+    {
+      "id": 60,
+      "text": "redefine mission-critical experiences",
+      "day": "07/11/2019",
+      "reminder": false
+    },
+    {
+      "id": 61,
+      "text": "reinvent clicks-and-mortar mindshare",
+      "day": "17/08/2021",
+      "reminder": true
+    },
+    {
+      "id": 62,
+      "text": "harness B2B interfaces",
+      "day": "08/09/2019",
+      "reminder": false
+    },
+    {
+      "id": 63,
+      "text": "incubate e-business functionalities",
+      "day": "14/10/2020",
+      "reminder": false
+    },
+    {
+      "id": 64,
+      "text": "synthesize seamless e-services",
+      "day": "08/04/2021",
+      "reminder": false
+    },
+    {
+      "id": 65,
+      "text": "reinvent one-to-one e-tailers",
+      "day": "29/11/2019",
+      "reminder": false
+    },
+    {
+      "id": 66,
+      "text": "target front-end e-commerce",
+      "day": "21/07/2020",
+      "reminder": false
+    },
+    {
+      "id": 67,
+      "text": "extend vertical experiences",
+      "day": "21/06/2021",
+      "reminder": true
+    },
+    {
+      "id": 68,
+      "text": "monetize extensible e-markets",
+      "day": "08/11/2020",
+      "reminder": false
+    },
+    {
+      "id": 69,
+      "text": "incubate seamless models",
+      "day": "25/11/2020",
+      "reminder": true
+    },
+    {
+      "id": 70,
+      "text": "grow innovative e-services",
+      "day": "25/03/2021",
+      "reminder": false
+    },
+    {
+      "id": 71,
+      "text": "mesh bricks-and-clicks systems",
+      "day": "16/10/2019",
+      "reminder": false
+    },
+    {
+      "id": 72,
+      "text": "cultivate real-time models",
+      "day": "25/09/2020",
+      "reminder": true
+    },
+    {
+      "id": 73,
+      "text": "leverage revolutionary e-markets",
+      "day": "20/05/2021",
+      "reminder": true
+    },
+    {
+      "id": 74,
+      "text": "engage bleeding-edge e-business",
+      "day": "02/03/2021",
+      "reminder": false
+    },
+    {
+      "id": 75,
+      "text": "embrace synergistic metrics",
+      "day": "16/06/2021",
+      "reminder": true
+    },
+    {
+      "id": 76,
+      "text": "engineer bricks-and-clicks communities",
+      "day": "02/05/2021",
+      "reminder": false
+    },
+    {
+      "id": 77,
+      "text": "harness wireless partnerships",
+      "day": "13/04/2020",
+      "reminder": false
+    },
+    {
+      "id": 78,
+      "text": "enhance cross-platform interfaces",
+      "day": "08/05/2021",
+      "reminder": true
+    },
+    {
+      "id": 79,
+      "text": "morph 24/365 communities",
+      "day": "02/07/2020",
+      "reminder": false
+    },
+    {
+      "id": 80,
+      "text": "aggregate synergistic mindshare",
+      "day": "29/09/2019",
+      "reminder": true
+    },
+    {
+      "id": 81,
+      "text": "utilize front-end experiences",
+      "day": "20/02/2022",
+      "reminder": true
+    },
+    {
+      "id": 82,
+      "text": "strategize vertical supply-chains",
+      "day": "27/06/2020",
+      "reminder": false
+    },
+    {
+      "id": 83,
+      "text": "scale extensible communities",
+      "day": "29/06/2021",
+      "reminder": true
+    },
+    {
+      "id": 84,
+      "text": "benchmark distributed synergies",
+      "day": "26/05/2021",
+      "reminder": true
+    },
+    {
+      "id": 85,
+      "text": "enhance end-to-end interfaces",
+      "day": "19/02/2020",
+      "reminder": false
+    },
+    {
+      "id": 86,
+      "text": "e-enable end-to-end architectures",
+      "day": "26/01/2020",
+      "reminder": true
+    },
+    {
+      "id": 87,
+      "text": "incentivize cutting-edge convergence",
+      "day": "17/11/2021",
+      "reminder": true
+    },
+    {
+      "id": 88,
+      "text": "architect viral initiatives",
+      "day": "27/12/2019",
+      "reminder": false
+    },
+    {
+      "id": 89,
+      "text": "exploit cutting-edge infrastructures",
+      "day": "02/04/2020",
+      "reminder": false
+    },
+    {
+      "id": 90,
+      "text": "drive enterprise platforms",
+      "day": "05/04/2021",
+      "reminder": true
+    },
+    {
+      "id": 91,
+      "text": "synthesize frictionless e-tailers",
+      "day": "04/10/2021",
+      "reminder": true
+    },
+    {
+      "id": 92,
+      "text": "leverage B2C architectures",
+      "day": "16/02/2021",
+      "reminder": true
+    },
+    {
+      "id": 93,
+      "text": "empower proactive portals",
+      "day": "03/09/2020",
+      "reminder": false
+    },
+    {
+      "id": 94,
+      "text": "seize robust vortals",
+      "day": "24/02/2022",
+      "reminder": false
+    },
+    {
+      "id": 95,
+      "text": "orchestrate integrated platforms",
+      "day": "24/07/2019",
+      "reminder": true
+    },
+    {
+      "id": 96,
+      "text": "e-enable vertical web-readiness",
+      "day": "17/09/2019",
+      "reminder": true
+    },
+    {
+      "id": 97,
+      "text": "embrace synergistic models",
+      "day": "25/02/2022",
+      "reminder": false
+    },
+    {
+      "id": 98,
+      "text": "transition integrated e-services",
+      "day": "18/06/2020",
+      "reminder": false
+    },
+    {
+      "id": 99,
+      "text": "engage integrated initiatives",
+      "day": "16/10/2019",
+      "reminder": false
+    },
+    {
+      "id": 100,
+      "text": "seize out-of-the-box mindshare",
+      "day": "26/08/2021",
+      "reminder": true
+    },
+    {
+      "text": "aaa",
+      "day": "aaa",
+      "reminder": false,
+      "id": 101
+    },
+    {
+      "text": "hh",
+      "day": "jii2",
+      "reminder": true,
+      "id": 102
+    },
+    {
+      "text": "new",
+      "day": "today",
+      "reminder": false,
+      "id": 103
+    },
+    {
+      "text": "kk",
+      "day": "gg",
+      "reminder": true,
+      "id": 104
+    }
+  ]
+}
